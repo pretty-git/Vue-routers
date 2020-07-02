@@ -1,3 +1,5 @@
+ ## 若有帮助
+[点赞我的github](https://github.com/pretty-git/Vue-routers)
  ## 先定义好路由，包括常页面路由和需要权限的路由数组
 
 ```javascript
@@ -300,5 +302,4 @@ export default getters
 
 ## 效果图：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200427180605652.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM3MjQxOTM0,size_16,color_FFFFFF,t_70)
-## 欢迎去我的github Star
-[点赞我的github](https://github.com/pretty-git/Vue-routers)
+
