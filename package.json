@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "area-data": "^5.0.6",
-    "axios": "0.18.1",
+    "axios": "1.6.0",
     "element-ui": "2.13.0",
     "file-saver": "^2.0.2",
     "js-cookie": "2.2.0",
